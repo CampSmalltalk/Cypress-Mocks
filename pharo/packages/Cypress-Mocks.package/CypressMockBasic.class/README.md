@@ -10,4 +10,6 @@ initialize
 	self name: 'Unknown'
 ```
 
+And some UTF8: Aš galiu valgyti stiklą ir jis manęs nežeidžia
+
 [1]: http://github.github.com/github-flavored-markdown/
