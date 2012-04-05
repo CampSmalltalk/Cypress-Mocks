@@ -1,6 +1,6 @@
-This mock contains basic class and instance method selectors.
+## Class Comment
 
-## GitHub Flabored Markdown
+This mock contains basic class and instance method selectors.
 
  [**GitHub Flabored Markdown**][1] with **Smalltalk** sytax *highlighting*:
 
